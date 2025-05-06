@@ -17,6 +17,8 @@ Bienvenue dans mon portfolio technique. Ici, je partage les projets que j’ai r
 - 📚 Centres d’intérêt personnels : lecture, basketball
 - 🎯 Mon objectif : contribuer activement à des projets d’envergure, progresser vers un rôle d’ingénieure en
    réseaux, sécurité & cloud, et à terme, assumer des responsabilités managériales
+
+  
   
   *N’hésitez pas à me contacter ou à consulter mes projets ci-dessous.*
 
