@@ -6,7 +6,14 @@ Bienvenue dans mon portfolio technique. Ici, je partage les projets que j’ai r
 - ☁️ Cloud computing et orchestration
 - 📊 Gestion et management de projets IT
 ---
+**Ma Bio**
 
+🎓 Diplômée d’un Master en Réseaux, Infrastructures et Sécurité (Institut 3IL, France)
+🎓 Titulaire d’une Licence en Réseaux et Télécommunications (École Supérieure Africaine des TIC – ESATIC)
+💼 Ouverte aux opportunités d’emploi dans le cloud : Cloud Engineer, Cloud Architect, Admin Cloud
+☁️ En préparation de la certification AWS Cloud Practitioner, j’améliore activement mes compétences en cloud computing et DevOps
+🚀 Passionnée par l’innovation technologique, le cloud, et l’optimisation des infrastructures IT
+📚 Centres d’intérêt personnels : lecture, basketball
 ## 📁 Projets
 
 ### 🔹 [Maquette Réseau Cisco – VLAN & Routage Inter-VLAN](./projets/maquette_vlan/)
