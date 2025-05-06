@@ -21,7 +21,7 @@ Bienvenue dans mon portfolio technique. Ici, je partage les projets que j’ai r
 
   💼 [Mon profil LinkedIn](https://www.linkedin.com/in/pervenche-winsedie-fabiola-beorou-a89a02182)  📧 Email : pervenchebeorou@gmail.com 📍Localisation : Côte d’Ivoire  
 
-*N’hésitez pas à me contacter ou à consulter mes projets ci-dessous.*
+  *N’hésitez pas à me contacter ou à consulter mes projets ci-dessous.*
 
 ## **Mes Projets**📁
 
