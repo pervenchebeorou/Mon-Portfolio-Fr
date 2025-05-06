@@ -18,12 +18,6 @@ Bienvenue dans mon portfolio technique. Ici, je partage les projets que j’ai r
 - 🎯 Mon objectif : contribuer activement à des projets d’envergure, progresser vers un rôle d’ingénieure en
    réseaux, sécurité & cloud, et à terme, assumer des responsabilités managériales
 
-
-  *N’hésitez pas à me contacter ou à consulter mes projets ci-dessous.*
-
-  💼 [Mon profil LinkedIn](https://www.linkedin.com/in/pervenche-winsedie-fabiola-beorou-a89a02182)  📧 Email : pervenchebeorou@gmail.com 📍Localisation : Côte d’Ivoire  
-
-
 ## **Mes Projets**📁
 
 * [Maquette Réseau Cisco – VLAN & Routage Inter-VLAN](./projets/maquette_vlan/)
@@ -60,3 +54,6 @@ Bienvenue dans mon portfolio technique. Ici, je partage les projets que j’ai r
 - Cisco CCNA
 
 #### *🌟 Merci d’avoir pris le temps de visiter mon portfolio. N’hésitez pas à me contacter pour échanger ou collaborer !*
+
+  💼 [Mon profil LinkedIn](https://www.linkedin.com/in/pervenche-winsedie-fabiola-beorou-a89a02182)  📧 Email : pervenchebeorou@gmail.com 📍Localisation : Côte d’Ivoire  
+
