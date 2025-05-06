@@ -18,11 +18,6 @@ Bienvenue dans mon portfolio technique. Ici, je partage les projets que j’ai r
 - 🎯 Mon objectif : contribuer activement à des projets d’envergure, progresser vers un rôle d’ingénieure en
    réseaux, sécurité & cloud, et à terme, assumer des responsabilités managériales
 
-  
-
-
-
-
 
   *N’hésitez pas à me contacter ou à consulter mes projets ci-dessous.*
 
@@ -57,5 +52,12 @@ Bienvenue dans mon portfolio technique. Ici, je partage les projets que j’ai r
 - Surveillance des équipements Cisco
 - Déclenchement d’alertes
 
+## 🔧 **Mes compétences clés**
+Réseaux : VLAN, VPN, pare-feu, IPsec, configuration réseau avancée
+Infrastructures : serveurs, stockage, virtualisation (VMware, VirtualBox), Active Directory
+Cloud : Google Cloud Platform, Azure Stack HCI, AWS (en cours)
+Orchestration : Kubernetes, Docker Swarm, Ansible, Terraform
+Automatisation : CI/CD, scripts Bash, pipelines
+Outils : Git, SysAid, GLPI, GNS3, Grafana, Prometheus
 
- 
+## 🏅**Mes Certifications**
