@@ -24,7 +24,7 @@ Bienvenue dans mon portfolio technique. Ici, je partage les projets que j’ai r
 
 *N’hésitez pas à me contacter ou à consulter mes projets ci-dessous.*
 
-📁 **Mes Projets**
+# **Mes Projets**📁
 
 ### 🔹 [Maquette Réseau Cisco – VLAN & Routage Inter-VLAN](./projets/maquette_vlan/)
 **Outils** : Cisco Packet Tracer  
