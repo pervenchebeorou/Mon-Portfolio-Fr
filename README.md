@@ -1,6 +1,4 @@
-# Mon-Portfolio-Fr
-Mon Portfolio (version française)
-# 🎓 Portfolio Réseau & Sécurité – Pervenche BEOROU
+# 🎓 Mon Portfolio – BEOROU Pervenche Winsedie Fabiola
 
 Bienvenue dans mon portfolio technique. Ici, je partage les projets que j’ai réalisés dans les domaines suivants :
 - Réseaux Cisco (VLAN, Routage, ACLs)
@@ -23,7 +21,7 @@ Bienvenue dans mon portfolio technique. Ici, je partage les projets que j’ai r
 📷 *Capture d’écran*  
 📝 *Fichier config.txt*
 
----
+
 
 ### 🔹 [Pare-feu pfSense – Filtrage d’accès](./projets/firewall_pfsense/)
 **Outils** : pfSense, VirtualBox  
