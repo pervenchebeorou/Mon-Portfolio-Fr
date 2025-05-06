@@ -5,8 +5,9 @@ Bienvenue dans mon portfolio technique. Ici, je partage les projets que j’ai r
 - 🔒 Sécurité informatique
 - ☁️ Cloud computing et orchestration
 - 📊 Gestion et management de projets IT
----
+
 **Ma Bio**
+-
 
 🎓 Diplômée d’un Master en Réseaux, Infrastructures et Sécurité (Institut 3IL, France)
 🎓 Titulaire d’une Licence en Réseaux et Télécommunications (École Supérieure Africaine des TIC – ESATIC)
