@@ -71,7 +71,7 @@ Bureautique : Microsoft Office (Word, Excel, PowerPoint)
 
 ## 🏅**Mes Certifications**
 
-###📍 En préparation : AWS Cloud Practitioner
+### 📍 En préparation : AWS Cloud Practitioner
 
 ### ✅ Certifications obtenues :
 Google Certificate in Project Management (2023)
