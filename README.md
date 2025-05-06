@@ -71,9 +71,9 @@ Bureautique : Microsoft Office (Word, Excel, PowerPoint)
 
 ## 🏅**Mes Certifications**
 
-📍 En préparation : AWS Cloud Practitioner
+###📍 En préparation : AWS Cloud Practitioner
 
-✅ Certifications obtenues :
+### ✅ Certifications obtenues :
 Google Certificate in Project Management (2023)
 Fortinet NSE 1 & NSE 2 Network Security Associate (2023)
 Huawei Seeds for the Future (2022)
