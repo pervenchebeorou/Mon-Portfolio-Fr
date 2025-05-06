@@ -16,7 +16,14 @@ Bienvenue dans mon portfolio technique. Ici, je partage les projets que j’ai r
       cloud computing et DevOps
 - 🚀 Passionnée par l’innovation technologique, le cloud, et l’optimisation des infrastructures IT
 - 📚 Centres d’intérêt personnels : lecture, basketball
+- 🎯 Mon objectif : contribuer activement à des projets d’envergure, progresser vers un rôle d’ingénieure en
+   réseaux, sécurité & cloud, et à terme, assumer des responsabilités managériales
   
+📍 Basée en Côte d’Ivoire  
+📫 [Contact LinkedIn](https://www.linkedin.com/in/pervenche-winsedie-fabiola-beorou-a89a02182) 
+
+📫 N’hésitez pas à me contacter ou à consulter mes projets ci-dessous.
+
 ## 📁 Projets
 
 ### 🔹 [Maquette Réseau Cisco – VLAN & Routage Inter-VLAN](./projets/maquette_vlan/)
@@ -45,11 +52,5 @@ Bienvenue dans mon portfolio technique. Ici, je partage les projets que j’ai r
 - Surveillance des équipements Cisco
 - Déclenchement d’alertes
 
----
 
-## 👩‍💻 À propos de moi
-
-Je suis passionnée par les technologies réseau, la sécurité des infrastructures, et la gestion de projets techniques.
-
-📍 Basée en Côte d’Ivoire  
-📫 [Contact LinkedIn](https://www.linkedin.com/in/pervenche-winsedie-fabiola-beorou-a89a02182)  
+ 
