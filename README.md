@@ -46,7 +46,7 @@ Bienvenue dans mon portfolio technique. Ici, je partage les projets que j’ai r
 ### ✅ Certifications obtenues :
 - Google Certificate in Project Management (2023)
 - [NSE 1_Network Security Associate_Fortinet (2023)](./NSE_1_Certification.pdf/)
-- [NSE 3_Network Security Associate_Fortinet (2023)](./NSE_3_Certification.pdf/)
+- [NSE 3_Network Security Associate_Fortinet (2023)](./NSE_3_Certificate.pdf)
 - Huawei Seeds for the Future (2022)
 - Cisco CCNA Module 1 & 2 (formation)
   
