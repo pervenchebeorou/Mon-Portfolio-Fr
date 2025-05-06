@@ -6,7 +6,7 @@ Bienvenue dans mon portfolio technique. Ici, je partage les projets que j’ai r
 - ☁️ Cloud computing et orchestration
 - 📊 Gestion et management de projets IT
 
-**🔹Ma Bio**
+🔹**Ma Bio**
 --
 
 - 🎓 Diplômée d’un Master en Réseaux, Infrastructures et Sécurité (Institut 3IL, France)
