@@ -54,5 +54,5 @@ Bienvenue dans mon portfolio technique. Ici, je partage les projets que j’ai r
 - Cisco CCNA
 
 #### *🌟 Merci d’avoir pris le temps de visiter mon portfolio. N’hésitez pas à me contacter pour échanger ou collaborer !*
-💼 [Mon profil LinkedIn](https://www.linkedin.com/in/pervenche-winsedie-fabiola-beorou-a89a02182)  📧 Email : pervenchebeorou@gmail.com 📍Localisation : Côte d’Ivoire  
+💼 ####[Mon profil LinkedIn](https://www.linkedin.com/in/pervenche-winsedie-fabiola-beorou-a89a02182)  📧 ####Email : pervenchebeorou@gmail.com 📍####Localisation : Côte d’Ivoire  
 
