@@ -59,4 +59,4 @@ Bienvenue dans mon portfolio technique. Ici, je partage les projets que j’ai r
 - AWS Cloud Practitioner
 - Cisco CCNA
 
-
+#### *🌟 Merci d’avoir pris le temps de visiter mon portfolio. N’hésitez pas à me contacter pour échanger ou collaborer !*
