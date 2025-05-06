@@ -9,7 +9,7 @@ Bienvenue dans mon portfolio technique. Ici, je partage les projets que j’ai r
 **Ma Bio**
 --
 
-🎓 Diplômée d’un Master en Réseaux, Infrastructures et Sécurité (Institut 3IL, France)
+🎓  Diplômée d’un Master en Réseaux, Infrastructures et Sécurité (Institut 3IL, France)
 🎓 Titulaire d’une Licence en Réseaux et Télécommunications (École Supérieure Africaine des TIC – ESATIC)
 💼 Ouverte aux opportunités d’emploi dans le cloud : Cloud Engineer, Cloud Architect, Admin Cloud
 ☁️ En préparation de la certification AWS Cloud Practitioner, j’améliore activement mes compétences en cloud computing et DevOps
