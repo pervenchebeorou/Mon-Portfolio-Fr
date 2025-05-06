@@ -20,7 +20,9 @@ Bienvenue dans mon portfolio technique. Ici, je partage les projets que j’ai r
    réseaux, sécurité & cloud, et à terme, assumer des responsabilités managériales
   
 📍Localisation : Côte d’Ivoire  
+
 💼 [Mon profil LinkedIn](https://www.linkedin.com/in/pervenche-winsedie-fabiola-beorou-a89a02182) 
+
 📧 Email : pervenchebeorou@gmail.com
 
 *N’hésitez pas à me contacter ou à consulter mes projets ci-dessous.*
