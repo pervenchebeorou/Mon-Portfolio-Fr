@@ -52,7 +52,7 @@ Bienvenue dans mon portfolio technique. Ici, je partage les projets que j’ai r
 - Surveillance des équipements Cisco
 - Déclenchement d’alertes
 
-## 🔧 **Mes compétences clés**
+## 🔧**Mes compétences clés**
 Réseaux : VLAN, VPN, pare-feu, IPsec, configuration réseau avancée
 Infrastructures : serveurs, stockage, virtualisation (VMware, VirtualBox), Active Directory
 Cloud : Google Cloud Platform, Azure Stack HCI, AWS (en cours)
