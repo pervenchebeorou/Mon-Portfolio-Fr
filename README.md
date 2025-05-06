@@ -60,7 +60,7 @@ Orchestration : Kubernetes, Docker Swarm, Ansible, Terraform
 Automatisation : CI/CD, scripts Bash, pipelines
 
 
-##🛠️**Outils et logiciels maîtrisés**
+## 🛠️**Outils et logiciels maîtrisés**
 
 Gestion de version : Git, GitHub
 Monitoring et visualisation : Grafana, Prometheus
