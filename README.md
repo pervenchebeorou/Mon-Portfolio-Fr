@@ -58,6 +58,15 @@ Infrastructures : serveurs, stockage, virtualisation (VMware, VirtualBox), Activ
 Cloud : Google Cloud Platform, Azure Stack HCI, AWS (en cours)
 Orchestration : Kubernetes, Docker Swarm, Ansible, Terraform
 Automatisation : CI/CD, scripts Bash, pipelines
-Outils : Git, SysAid, GLPI, GNS3, Grafana, Prometheus
+
+
+##🛠️**Outils et logiciels maîtrisés**
+
+Gestion de version : Git, GitHub
+Monitoring et visualisation : Grafana, Prometheus
+Réseau : Wireshark, Putty, FileZilla, GNS3
+Infrastructure et ITSM : SysAid, GLPI, VMware, VirtualBox, Active Directory
+Développement et scripts : Visual Studio Code, Bash, PowerShell
+Bureautique : Microsoft Office (Word, Excel, PowerPoint)
 
 ## 🏅**Mes Certifications**
