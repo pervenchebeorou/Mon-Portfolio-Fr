@@ -44,7 +44,7 @@ Bienvenue dans mon portfolio technique. Ici, je partage les projets que j’ai r
 ## 🏅**Mes Certifications**
 
 ### ✅ Certifications obtenues :
-- Google Certificate in Project Management (2023)
+- [Google Certificate in Project Management (2023)](https://www.credly.com/badges/bd39c052-3561-4465-92b1-87cd6a3c1387/public_url)
 - [NSE 1_Network Security Associate_Fortinet (2023)](./NSE_1_Certification.pdf/)
 - [NSE 3_Network Security Associate_Fortinet (2023)](./NSE_3_Certificate.pdf)
 - Huawei Seeds for the Future (2022)
