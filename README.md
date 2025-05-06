@@ -28,8 +28,8 @@ Bienvenue dans mon portfolio technique. Ici, je partage les projets que j’ai r
 
 * [Maquette Réseau Cisco – VLAN & Routage Inter-VLAN](./projets/maquette_vlan/)
 * [Pare-feu pfSense – Filtrage d’accès](./projets/firewall_pfsense/)
-* [Supervision réseau avec Zabbix](./projets/maquette-reseau-cisco/)
-
+* [Supervision réseau avec Zabbix](https://github.com/pervenchebeorou/maquette-reseau-cisco/)
+  
 ## 🔧**Mes compétences clés**
 - Réseaux : VLAN, VPN, pare-feu, IPsec, configuration réseau avancée
 - Infrastructures : serveurs, stockage, virtualisation (VMware, VirtualBox), Active Directory
