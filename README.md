@@ -1,10 +1,10 @@
 # 🎓 Mon Portfolio – BEOROU Pervenche Winsedie Fabiola
 
 👋 Bienvenue dans mon portfolio technique. Ici, je partage les projets que j’ai réalisés dans les domaines suivants :  
--🌐 Réseaux et infrastructures informatiques
--🔒 Sécurité informatique
--☁️ Cloud computing et orchestration
--📊 Gestion et management de projets IT
+- 🌐 Réseaux et infrastructures informatiques
+- 🔒 Sécurité informatique
+- ☁️ Cloud computing et orchestration
+- 📊 Gestion et management de projets IT
 ---
 
 ## 📁 Projets
