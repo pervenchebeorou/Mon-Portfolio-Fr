@@ -26,48 +26,27 @@ Bienvenue dans mon portfolio technique. Ici, je partage les projets que j’ai r
 
 ## **Mes Projets**📁
 
-### 🔹 [Maquette Réseau Cisco – VLAN & Routage Inter-VLAN](./projets/maquette_vlan/)
-**Outils** : Cisco Packet Tracer  
-**Fonctionnalités** :
-- 3 VLANs (Admin, RH, IT)
-- Routage L3 sur switch Cisco
-- DHCP et ACLs
+* [Maquette Réseau Cisco – VLAN & Routage Inter-VLAN](./projets/maquette_vlan/)
+* [Pare-feu pfSense – Filtrage d’accès](./projets/firewall_pfsense/)
+* [Supervision réseau avec Zabbix](./projets/supervision_zabbix/)
 
-📷 *Capture d’écran*  
-📝 *Fichier config.txt*
-
-
-
-### 🔹 [Pare-feu pfSense – Filtrage d’accès](./projets/firewall_pfsense/)
-**Outils** : pfSense, VirtualBox  
-**Fonctionnalités** :
-- Règles de NAT et firewall
-- DMZ et segmentation réseau
-
----
-
-### 🔹 [Supervision réseau avec Zabbix](./projets/supervision_zabbix/)
-**Outils** : Zabbix, Debian  
-**Fonctionnalités** :
-- Surveillance des équipements Cisco
-- Déclenchement d’alertes
 
 ## 🔧**Mes compétences clés**
-Réseaux : VLAN, VPN, pare-feu, IPsec, configuration réseau avancée
-Infrastructures : serveurs, stockage, virtualisation (VMware, VirtualBox), Active Directory
-Cloud : Google Cloud Platform, Azure Stack HCI, AWS (en cours)
-Orchestration : Kubernetes, Docker Swarm, Ansible, Terraform
-Automatisation : CI/CD, scripts Bash, pipelines
+- Réseaux : VLAN, VPN, pare-feu, IPsec, configuration réseau avancée
+- Infrastructures : serveurs, stockage, virtualisation (VMware, VirtualBox), Active Directory
+- Cloud : Google Cloud Platform, Azure Stack HCI, AWS (en cours)
+- Orchestration : Kubernetes, Docker Swarm, Ansible, Terraform
+- Automatisation : CI/CD, scripts Bash, pipelines
 
 
 ## 🛠️**Outils et logiciels utilisés**
 
-Gestion de version : Git, GitHub
-Monitoring et visualisation : Grafana, Prometheus
-Réseau : Wireshark, Putty, FileZilla, GNS3
-Infrastructure et ITSM : SysAid, GLPI, VMware, VirtualBox, Active Directory
-Développement et scripts : Visual Studio Code, Bash, PowerShell
-Bureautique : Microsoft Office (Word, Excel, PowerPoint)
+- Gestion de version : Git, GitHub
+- Monitoring et visualisation : Grafana, Prometheus
+- Réseau : Wireshark, Putty, FileZilla, GNS3
+- Infrastructure et ITSM : SysAid, GLPI, VMware, VirtualBox, Active Directory
+- Développement et scripts : Visual Studio Code, Bash, PowerShell
+- Bureautique : Microsoft Office (Word, Excel, PowerPoint)
 
 ## 🏅**Mes Certifications**
 
