@@ -25,7 +25,7 @@ Bienvenue dans mon portfolio technique. Ici, je partage les projets que j’ai r
 * [Maquette réseau](https://github.com/pervenchebeorou/maquette-reseau-cisco/)
   
 ## 🔧**Mes compétences clés**
-- Réseaux : VLAN, VPN, pare-feu, IPsec, configuration réseau avancée
+- Réseaux : VLAN, VPN, pare-feu, IPsec
 - Infrastructures : serveurs, stockage, virtualisation (VMware, VirtualBox), Active Directory
 - Cloud : Google Cloud Platform, Azure Stack HCI, AWS (en cours)
 - Orchestration : Kubernetes, Docker Swarm, Ansible, Terraform
@@ -36,7 +36,7 @@ Bienvenue dans mon portfolio technique. Ici, je partage les projets que j’ai r
 
 - Gestion de version : Git, GitHub
 - Monitoring et visualisation : Grafana, Prometheus
-- Réseau : Wireshark, Putty, FileZilla, GNS3
+- Réseau : Wireshark, Putty, GNS3
 - Infrastructure et ITSM : SysAid, GLPI, VMware, VirtualBox, Active Directory
 - Développement et scripts : Visual Studio Code, Bash, PowerShell
 - Bureautique : Microsoft Office (Word, Excel, PowerPoint)
